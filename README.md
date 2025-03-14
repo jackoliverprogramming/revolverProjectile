@@ -1,0 +1,1 @@
+this script simulates the action of a hitscan 6 round revolver. Remember to assign your objects correctly within Unity. The weapon works through using raycasts, which may cause lag on some lower end machines.
